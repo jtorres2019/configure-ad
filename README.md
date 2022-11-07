@@ -22,10 +22,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Setup Resources in Azure
+- Step 2 Set Domain Controller’s NIC Private IP address to be static
+- Step 3 Ensure Connectivity between the client and Domain Controller
+- Step 4 Install Active Directory
 
 <h2>Deployment and Configuration Steps</h2>
 
